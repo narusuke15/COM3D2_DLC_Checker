@@ -2,6 +2,9 @@
   "profiles": {
     "COM3D2_DLC_Checker": {
       "commandName": "Project"
-    }
+    },
+    "excludes": [
+      ".gitignore"
+    ]
   }
 }
